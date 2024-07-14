@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Utilities\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-03-01T15:37:38+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: utilities\n"
+
+#: inc/404.php:17
+msgid "404 not found error"
+msgstr ""
+
+#: inc/404.php:23
+msgid "Leave blank to redirect to front page."
+msgstr ""
+
+#: inc/customizer.php:6
+msgid "Theme Options"
+msgstr ""
+
+#: inc/disable-search.php:11
+msgid "Disable Search"
+msgstr ""
+
+#: inc/disable-search.php:12
+msgid "All search requests will be redirected to home page."
+msgstr ""
+
+#: inc/media.php:37
+msgid "Empty caption"
+msgstr ""
+
+#: inc/media.php:38
+msgid "Force <code>&lt;figcaption&gt;</code> to be added, even if it's empty. Mostly for styling reasons."
+msgstr ""
+
+#: inc/pages-for-.php:25
+msgid "Page for …"
+msgstr ""
+
+#: inc/pages-for-.php:58
+msgid "Pages for …"
+msgstr ""
+
+#: inc/remove-post-ui.php:11
+msgid "Disable Posts"
+msgstr ""
+
+#: inc/remove-post-ui.php:12
+msgid "Remove post UI from backend. Post menu page will be removed once there are no posts anymore."
+msgstr ""
