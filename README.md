@@ -1,7 +1,7 @@
-_s
+Silverback Dev Underscores WordPress Theme Starter/Boilerplate
 ===
 
-Hi. I'm a fork of the starter theme called _s. I'm a template theme meant to be the next, most awesome, WordPress theme out there. That's what I'm here for.
+Hi. I'm a fork of the starter theme called _s (aka Underscores). I'm a template theme meant to be the next, most awesome, WordPress theme out there. That's what I'm here for. Simply click on the green 'Use this template' button to create your own new repo with this one as template.
 
 Installation
 ---------------
@@ -16,15 +16,7 @@ Installation
 
 #### Docker DEV Environment (optional)
 
-Move the docker folder to the root of the WordPress installation and set project's parameters in the `.env` file.
-
-1. Replace `PROJECT_NAME` with the current project name.
-2. Replace `PROJECT_ABBR` with the project's abbreviation. This is used as DB table prefix. Default is `wp`.
-3. Replace `DEV_URL_WITHOUT_SCHEMA` with the project's dev URL without `http://`. This should be the live URL with `dev.` instead of `www.`: dev.project.de
-4. Replace `STAGE_URL_WITH_SCHEMA` with the project's stage URL.
-5. Replace `LIVE_URL_WITH_SCHEMA` with the project's live URL.
-
-For further Docker installation see docker/README.md
+Naaah, don't use Docker, seriously... It's way too heavy/bloated for this kind of work.
 
 #### Theme
 
